@@ -31,6 +31,10 @@ export default function Booking() {
             </div>
           </Link>
         </div>
+        <h1></h1>
+        <Link href="/generating">
+          <button type="button">Generate Tix</button>
+        </Link>
       </main>
     </Layout>
   );
