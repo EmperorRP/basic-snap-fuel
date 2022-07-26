@@ -35,6 +35,10 @@ export default function Booking() {
         <Link href="/generating">
           <button type="button">Generate Tix</button>
         </Link>
+        <h1></h1>
+        <Link href="/NFT">
+          <button type="button">NFT Marketplace</button>
+        </Link>
       </main>
     </Layout>
   );
